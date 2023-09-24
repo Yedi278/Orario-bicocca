@@ -1,5 +1,5 @@
 # Orario-bicocca
-Programma che esegue tramite python una finestra di firefox sulla pagina degli orari
+Programma che entra automaticamente nel sito degli orari con la data corretta
 
 requisiti:
   >-firefox(non strettamente necessario)
@@ -12,7 +12,11 @@ Mettendo come argomento del file 1 si avvierà il primo link e mettendo 2 il sec
 In questo modo: 
 >python3 orario.py 1
 
-per eseguire il comando direttamente da terminale si può creare un file binario nel proprio sistema operativo.
+*attenzione*
+cambiando il link bisognerà anche cambiare il valore di url[valore] perchè in base al sito cambia la posizione della data.
+
+
+Per eseguire il comando direttamente da terminale si può creare un file binario nel proprio sistema operativo.
 
 per Linux basta scaricare il file orario che ho già messo e inserirlo nella destinazione '/bin/'
 una volta messo si possono modificare i path di python e del file orario.py
