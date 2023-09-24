@@ -2,9 +2,9 @@
 Programma che esegue tramite python una finestra di firefox sulla pagina degli orari
 
 requisiti:
-  -chromium based browser
-  -python3
-  -selenium
+  >-firefox(non strettamente necessario)
+  >-python3
+  >-selenium
 
 Il file orario.py può essere messo dove ti pare basta che non sia in una locazione sotto dominio di amministratore.
 al suo interno ho messo due link: url ed url2.
