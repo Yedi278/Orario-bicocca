@@ -20,3 +20,9 @@ Usa:
 >sudo chmod +x orario
 
 per Windows si fa in modo analogo ma tramite file bat.(auguri)
+
+CAMBIARE BROWSER
+Nel file python ho messo come brwoser default firefox ma basta cambiare webdriver.Firefox() in 
+webdriver.Chrome() o .Edge()
+per brave non ho ancora creato alcuna implementazione.
+
