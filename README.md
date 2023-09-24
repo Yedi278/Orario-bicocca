@@ -7,7 +7,8 @@ requisiti:
   -selenium
 
 Il file orario.py può essere messo dove ti pare basta che non sia in una locazione sotto dominio di amministratore.
-al suo interno ho messo due link: mettendo come argomento del file 1 si avvierà il primo link e mettendo 2 il secondo.
+al suo interno ho messo due link: url ed url2.
+Mettendo come argomento del file 1 si avvierà il primo link e mettendo 2 il secondo.
 In questo modo: 
 >python3 orario.py 1
 
